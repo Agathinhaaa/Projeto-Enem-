@@ -16,7 +16,7 @@ Este projeto é um site de estudos para o ENEM com tópicos de Matemática e Red
 README.md: Descrição do nosso projeto.
 
 # Como eu posso usar?????
-1- Abrir o arquivo `index.html` no navegador.
+1- Acessar o Link: https://github.com/Agathinhaaa/Projeto-Enem- no navegador.
 2- Escolher entre Matemática ou Redação.
 3- Navegar entre os tópicos e conteúdos.
 
