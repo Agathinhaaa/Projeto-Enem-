@@ -1,0 +1,21 @@
+
+/*seletor de elemento csss */
+.centralizado {
+  /*nome da propiedade: valor; */
+  text-align: center;
+}
+
+.grande {
+font-size:large;
+color: blueviolet;
+}
+
+.medio {
+font-size: medium;
+color: rgb(0, 0, 0);
+}
+
+.pequeno {
+font-size: small;
+color: rgb(0, 0, 0);
+}
